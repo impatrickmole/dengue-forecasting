@@ -30,7 +30,7 @@ Visualization | Time-series plots, boxplots, and distribution charts
 ├── data/
 │   └── cleaned_pangasinan_dengue_cases_2019_2024.csv
 ├── scripts/
-│   └── dengue_forecasting_arima.R
+│   └── pangasinan_dengue.R
 ├── outputs/
 │   ├── forecast_plot.png
 │   └── boxplot_yearly_distribution.png
